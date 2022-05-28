@@ -12,7 +12,7 @@ GOOGLE_REDIRECT=http://localhost:8000/google_callback
 
 if any case google authentication will not work please try the below settings
 
-\vendor\guzzlehttp\guzzle\src\Client.php
+``` \vendor\guzzlehttp\guzzle\src\Client.php
 $defaults = [
             'allow_redirects' => RedirectMiddleware::$defaultSettings,
             'http_errors'     => true,
@@ -21,7 +21,7 @@ $defaults = [
             'cookies'         => false,
             'idn_conversion'  => false,
         ];
-
+```
 3. run composer install/update.
 
 4. php artisan migrate
