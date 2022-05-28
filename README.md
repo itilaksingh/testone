@@ -29,6 +29,7 @@ $defaults = [
 5. php artisan db:seed
 
 6. php artisan serve
+APP URL: http://localhost:8000/
 Please watch the below video for user experience details: 
 
 <p align="center">
