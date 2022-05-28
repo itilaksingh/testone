@@ -31,8 +31,12 @@ $defaults = [
 6. php artisan serve
 Please watch the below video for user experience details: 
 
-<img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" width="200px">
-1. <img src="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing" width="200px">
-1. <img src="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing" width="200px">
+<p align="center">
+<a href="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing"><img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" alt="img1"></a>
+<a href="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing"><img src="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing" alt="img12"></a>
+<a href="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing"><img src="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing" alt="img3"></a>
+
+</p>
+
 
 https://drive.google.com/file/d/15C0LoSeTEvwoMioOWF6mVqFolO7iOBhl/view?usp=sharing
