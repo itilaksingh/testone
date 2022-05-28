@@ -32,9 +32,9 @@ $defaults = [
 Please watch the below video for user experience details: 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing"><img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" alt="img1"></a>
-<a href="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing"><img src="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing" alt="img12"></a>
-<a href="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing"><img src="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing" alt="img3"></a>
+<a target="_blank" href="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing"><img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" alt="img1"></a>
+<a target="_blank" href="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing"><img src="https://drive.google.com/file/d/1-BEz_3P39fBB-ruIQ8nphkPLTi9h-a34/view?usp=sharing" alt="img12"></a>
+<a target="_blank" href="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing"><img src="https://drive.google.com/file/d/15sicWjnhAXYxLyedXFZ4l4s1EZ3UZgfO/view?usp=sharing" alt="img3"></a>
 
 </p>
 
