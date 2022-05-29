@@ -11,10 +11,7 @@ GOOGLE_CLIENT_SECRET=
 GOOGLE_REDIRECT=http://localhost:8000/google_callback
 
 if any case google authentication will not work please try the below settings
-```
-_____________________________________________________________________
 
-``` 
 \vendor\guzzlehttp\guzzle\src\Client.php
 $defaults = [
             'allow_redirects' => RedirectMiddleware::$defaultSettings,
