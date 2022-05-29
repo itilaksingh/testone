@@ -29,11 +29,14 @@ $defaults = [
 5. php artisan db:seed
 
 6. php artisan serve
+```
 APP URL: http://localhost:8000/
 Please watch the below video for user experience details: 
+
 Admin Access: 
 Email: admin@gmail.com
 password: admin
+```
 
 <p align="center">
 <a target="_blank" href="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing"><img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" alt="img1"></a>
