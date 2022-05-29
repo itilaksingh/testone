@@ -4,9 +4,9 @@ TEST ONE:
 
 2. update .env file with the database and Google Auth access.
 
-GOOGLE_CLIENT_ID=317801910834-0tiiusd0ntrr2sssa5gbvqofbuv299hl.apps.googleusercontent.com
+GOOGLE_CLIENT_ID=
 
-GOOGLE_CLIENT_SECRET=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
+GOOGLE_CLIENT_SECRET=
 
 GOOGLE_REDIRECT=http://localhost:8000/google_callback
 
@@ -31,6 +31,9 @@ $defaults = [
 6. php artisan serve
 APP URL: http://localhost:8000/
 Please watch the below video for user experience details: 
+Admin Access: 
+Email: admin@gmail.com
+password: admin
 
 <p align="center">
 <a target="_blank" href="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing"><img src="https://drive.google.com/file/d/1gNsdN8gihYPWRwIdRKXwXAOd-ZlRzCh-/view?usp=sharing" alt="img1"></a>
